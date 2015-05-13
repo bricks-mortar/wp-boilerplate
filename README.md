@@ -5,3 +5,4 @@
 * options.php is where you setup your theme options using the options framework plugin
 * Has menus and widget areas registered in functions.php
 * Screenshot is in the proper dimensions 660x450 (change it)
+* Added some structure for partials, page templates, and custom code files
